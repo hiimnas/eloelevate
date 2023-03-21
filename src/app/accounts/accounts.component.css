@@ -1,0 +1,27 @@
+.card {
+    height: 90%;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-body button {
+    max-width: fit-content;
+    align-self: center;
+}
+
+.modal-footer {
+    padding-bottom: 0;
+}
+
+.form-control {
+    margin-bottom: 16px;
+}
+
+label {
+    text-indent: 6px;
+    font-weight: bold;
+}

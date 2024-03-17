@@ -28,7 +28,7 @@ section:first-of-type {
     margin: 0 !important;
     max-width: 100%;
     height: 480px;
-    background-image: linear-gradient(rgba(1, 1, 1, 0.3), rgba(1, 1, 1, 0.3)), url('../../assets/victory.gif');
+    background-image: linear-gradient(rgba(1, 1, 1, 0.3), rgba(1, 1, 1, 0.3)), url('/assets/victory.gif');
     background-size: cover;
     background-position-x: center;
 }
